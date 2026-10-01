@@ -95,6 +95,21 @@ The program stores every non-zero element using its row, column, and value. The 
 
 ### Sample Input / Output
 
+Boundary Case:
+
+Input:
+Rows = 2
+Columns = 2
+
+Matrix:
+0 0
+0 0
+
+Output:
+Sparse representation:
+(2, 2, 0)
+
+The matrix contains no non-zero elements.
 #### First Matrix
 
 [1, 0, 0, 0, 0, 0]
